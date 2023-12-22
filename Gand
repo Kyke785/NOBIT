@@ -55,5 +55,3 @@ local Button = Tab:CreateButton({
 })
 
 Button:Set("CLICK AND X OUT THE HU TO GET MAIN")
-
-Rayfield:Destroy()
